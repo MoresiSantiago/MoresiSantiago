@@ -3,7 +3,6 @@
 
 Soy Santiago Moresi, un profesional apasionado de **Data Science** con experiencia en ***análisis y ingeniería de datos***.
 
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor)](mailto:santiagomoresi@gmail.com) 
 ##
 
 <p align='center'>
