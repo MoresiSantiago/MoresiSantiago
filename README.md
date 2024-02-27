@@ -12,4 +12,5 @@ Aquí, encontrarás emocionantes proyectos que reflejan mi dedicación a explora
 Mi compromiso con la excelencia se evidencia en la calidad e innovación de mis trabajos. Únete a mí en este viaje de descubrimiento y aprendizaje continuo en el fascinante mundo de la ciencia de datos.
 
 Correo electrónico: santiagomoresi@gmail.com
-LinkedIn: linkedin.com/in/santiago-moresi-b88983208
+
+LinkedIn: in/santiago-moresi-b88983208
