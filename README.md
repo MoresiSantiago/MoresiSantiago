@@ -3,7 +3,7 @@
 Soy un profesional de **Data Science** con experiencia en ***análisis y ingeniería de datos***.
 
 <p align='center'>
-<img src="[https://static.lajornadaestadodemexico.com/wp-content/uploads/2022/08/Siniestros-viales.jpg])"  height=300>
+<img src="[https://static.lajornadaestadodemexico.com/wp-content/uploads/2022/08/Siniestros-viales.jpg]"  height=300>
 <p>
   
 Aquí encontrarás proyectos emocionantes que reflejan mi pasión por explorar y extraer conocimientos de los datos. 
