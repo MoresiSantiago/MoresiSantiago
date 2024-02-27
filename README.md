@@ -1,9 +1,9 @@
-**¡Bienvenido!**
+                                                                                                                    **¡Bienvenido!**
 
 Soy un profesional de **Data Science** con experiencia en ***análisis y ingeniería de datos***.
 
 <p align='center'>
-<img src="https://sicreesinnovas.com/wp-content/uploads/2022/01/trabajo-analisis-datos.jpg"  height=300>
+<img src="https://sicreesinnovas.com/wp-content/uploads/2022/01/trabajo-analisis-datos.jpg"  height=200>
 <p>
   
 Aquí encontrarás proyectos emocionantes que reflejan mi pasión por explorar y extraer conocimientos de los datos. 
