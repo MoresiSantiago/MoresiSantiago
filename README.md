@@ -13,4 +13,4 @@ Mi compromiso con la excelencia se evidencia en la calidad e innovación de mis 
 
 Correo electrónico: santiagomoresi@gmail.com
 
-LinkedIn: in/santiago-moresi-b88983208
+LinkedIn: [in/santiago-moresi-b88983208](https://www.linkedin.com/in/santiago-moresi/)https://www.linkedin.com/in/santiago-moresi/
