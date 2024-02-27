@@ -2,6 +2,8 @@
 ##
 
 Soy Santiago Moresi, un profesional apasionado de **Data Science** con experiencia en ***análisis y ingeniería de datos***.
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-darce/)](https://www.linkedin.com/in/santiago-moresi/) [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor)](mailto:santiagomoresi@gmail.com) 
+##
 
 <p align='center'>
 <img src="https://sicreesinnovas.com/wp-content/uploads/2022/01/trabajo-analisis-datos.jpg"  height=250>
